@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExampleScrip : MonoBehaviour
+public class ExampleScript : MonoBehaviour
 {
-    public int myInt = 5;
+    public int myInt;
     
 
     // Start is called before the first frame update
